@@ -2,3 +2,4 @@ prueba <- c(100 ,200,300,400,500)
 ingeip <- mean (prueba)
 inegip * prueba
 library (tydiverse)
+estoy aprendiendo git
